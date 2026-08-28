@@ -1,10 +1,59 @@
-![](profile_banner.png)
-<!--
-**Nishant2907/Nishant2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# Hey, I'm Nishant 👋
 
-- 🔭 I’m currently working on Javascript
-- 💬 Ask me about Frontend Web development
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/curlyParadox/">curlyParadox</a>
-- 😄 Pronouns: He/His/Him
-- ☕️ Buy me a coffee: <a href="https://www.buymeacoffee.com/curlyParadox">Buy Me a Coffee</a>
-- ⚡ Fun fact: I am a drummer too...
+### Frontend Engineer · React · Next.js · TypeScript
+
+I'm a **Frontend Engineer with 2+ years of professional experience**, focused on building scalable, production-ready web applications with **React.js, Next.js, and TypeScript**.
+
+I enjoy taking complex requirements and turning them into **clean, intuitive, high-performance interfaces** — from SaaS platforms and internal tools to dashboards and workflow-driven applications.
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- Material UI
+- Shadcn/ui
+
+### Architecture & APIs
+- React Context
+- REST APIs
+- Supabase
+- Xano
+- Firebase
+
+### Tools
+- Git & GitHub
+- Vercel
+- Postman
+- VS Code
+
+## 🚀 What I'm Up To
+
+- 🔭 Building and experimenting with **React / Next.js applications**
+- 💼 Looking for opportunities as a **Frontend Engineer**
+- 🧠 Exploring how **AI-assisted development** can make me a faster and better engineer
+- ⚡ Interested in **frontend architecture, product engineering, UI/UX, and performance**
+
+## 🌎 Beyond Code
+
+Outside of writing code, I'm heavily involved in the developer community.
+
+- 🏆 Mentored and judged **40+ hackathons**
+- 🎤 Delivered **50+ technical webinars**
+- 🌱 Helped build and manage developer communities
+- 🧑‍💻 Organized developer events and open-source initiatives
+
+And when I'm not coding, you'll probably find me behind a **drum kit 🥁**
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/curlyParadox/)
+- 💻 [GitHub](https://github.com/Nishant2907)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/curlyParadox)
+
+---
+
+*"Build things. Break things. Learn. Repeat."*
