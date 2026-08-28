@@ -8,27 +8,9 @@ I enjoy taking complex requirements and turning them into **clean, intuitive, hi
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- Material UI
-- Shadcn/ui
-
-### Architecture & APIs
-- React Context
-- REST APIs
-- Supabase
-- Xano
-- Firebase
-
-### Tools
-- Git & GitHub
-- Vercel
-- Postman
-- VS Code
+**Frontend** → React · Next.js · TypeScript · JavaScript · Tailwind CSS · MUI · Shadcn/ui  
+**Backend / APIs** → REST APIs · Supabase · Xano · Firebase · React Context  
+**Tools** → Git · GitHub · Vercel · Postman · VS Code
 
 ## 🚀 What I'm Up To
 
